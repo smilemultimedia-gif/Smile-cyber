@@ -1,0 +1,11 @@
+body { font-family: Arial; background: #f8f9fa; color: #333; margin: 0; padding: 0;}
+header { background: #0056b3; color: white; padding: 1em; text-align: center;}
+nav a { color: white; margin: 0 10px; text-decoration: none;}
+nav a:hover { text-decoration: underline;}
+.hero { text-align: center; margin: 20px;}
+.ceo-photo { width: 180px; height: 180px; border-radius: 50%; }
+section { margin: 20px; background: white; padding: 20px; border-radius: 10px;}
+footer { background: #0056b3; color: white; text-align: center; padding: 10px;}
+form input, form textarea { width: 80%; margin: 5px 0; padding: 8px;}
+button { background: #007bff; color: white; padding: 10px 15px; border: none; border-radius: 5px;}
+button:hover { background: #0056b3;}
